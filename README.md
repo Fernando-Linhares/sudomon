@@ -90,16 +90,16 @@ Contribuições são 🆗! Siga estes passos:
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
----
-
-## 📬 Contato
-
-Entre em contato se tiver 📩 ou feedback:
-
-- **✉️**: your-email@example.com
-- **GitHub**: [Seu GitHub](https://github.com/your-username)
-
----
 
 🌟 Divirta-se com a mistura de 🧠 e 🎮 com Sudomon! Pegue todos enquanto resolve 🧩!
 
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
